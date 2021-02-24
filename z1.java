@@ -1,6 +1,6 @@
 package com.company;
 
-class Main {
+class z1 {
 
     public static void main(String[] args) {
 
