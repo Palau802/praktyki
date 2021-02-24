@@ -1,13 +1,13 @@
-package com.company;
-
-public class Main {
-
+public class z1 {
     public static void main(String[] args) {
 
-                System.out.println("Ania");
 
-                System.out.println("Bartek");
+        int i = 10;
+        while (i < 21) {
+            System.out.println(i);
+            i++;
+        }
 
-                System.out.println("Kasia");
+
     }
 }
